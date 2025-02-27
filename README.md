@@ -63,7 +63,7 @@ Contribuições são bem-vindas! Se você quiser melhorar este projeto, siga os 
 
 ## 📝 Licença
 
-Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
+Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](https://github.com/julianamaula/-7DaysOfCode---L-gica-JS-2-7/blob/main/LICENSE) para mais detalhes.
 
 ---
 
